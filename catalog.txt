@@ -1,0 +1,9 @@
+Artificial Intelligence:Stuart Russell:9780136042594:6
+Clean Code:Robert C. Martin:9780132350884:10
+Computer Networks:Andrew S. Tanenbaum:9780132126953:9
+Design Patterns:Erich Gamma:9780201633610:7
+Introduction to Algorithms:Thomas H. Cormen:9780262033848:12
+Operating System Concepts:Abraham Silberschatz:9781118063330:11
+Refactoring:Martin Fowler:9780134757599:5
+Test:Rawah:1234567899876:2
+The Pragmatic Programmer:Andrew Hunt:9780135957059:8
